@@ -1,0 +1,28 @@
+Memphomaniac -  Glorified watered-down twitter
+Take images
+upload images
+post
+comment on
+	comment on comments (thread)
+delete
+follow
+post tags
+	dictionary
+	everythin
+	find other users who primarily use that tag
+	add tags
+	ADMIN: remove tags
+rate
+	1/5 star system
+	Like/dislike
+Top rated X images
+	day
+	week
+	month
+	year
+	All-time
+Block content based on 
+	tag
+	user
+	etc.
+Admin posts events in teh area based on interests
